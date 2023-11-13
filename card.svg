@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" width="1234px" height="678px" preserveAspectRatio="xMinYMin" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="-76.8" y="361.422216796875" angle="0"/>
+  </defs>
+  <rect x="120.8" y="182.4" width="245.6" height="135.2" style="fill: rgb(245, 216, 36); paint-order: fill;" rx="12" ry="12"/>
+  <rect x="121.6" y="206.4" width="244" height="25.6" style="fill: rgb(133, 128, 128);"/>
+  <rect x="138.4" y="241.422" width="33.6" height="5.6" style="stroke: rgb(186, 218, 85); fill: rgb(235, 188, 129);" rx="2.8" ry="2.8"/>
+  <rect x="185.6" y="241.422" width="40" height="5.6" style="stroke-linecap: round; paint-order: stroke markers; stroke-miterlimit: 9.46; stroke: rgb(250, 217, 120); fill: rgb(235, 188, 129);" rx="2.8" ry="2.8"/>
+  <rect x="166.4" y="258.222" width="14.4" height="6.4" style="fill: rgb(235, 188, 129);" rx="3.2" ry="3.2"/>
+  <rect x="192" y="257.422" width="4.8" height="7.2" style="fill: rgb(235, 188, 129);" rx="2.4" ry="2.4"/>
+  <rect x="208.8" y="257.422" width="10.4" height="7.2" style="fill: rgb(235, 188, 129);" rx="3.6" ry="3.6"/>
+  <rect x="144" y="259.022" width="12.8" height="4.8" style="fill: rgb(235, 188, 129);" rx="2.4" ry="2.4"/>
+  <ellipse style="fill: rgb(228, 3, 3);" cx="283.6" cy="288.222" rx="18" ry="15.6"/>
+  <ellipse style="fill: rgb(42, 42, 170);" cx="305.2" cy="288.622" rx="18" ry="16"/>
+</svg>

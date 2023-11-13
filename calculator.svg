@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="100.8" y="95.2" width="285.6" height="341.6" style="fill: rgb(9, 9, 9);" rx="16.8" ry="16.8"/>
+  <rect x="132.8" y="123.2" width="218.4" height="50.4" style="fill: rgb(251, 241, 241);" rx="14" ry="14"/>
+  <rect x="168.8" y="228.8" width="24.8" height="80.8" style="fill: rgb(251, 241, 241);" rx="12.4" ry="12.4"/>
+  <rect x="138.4" y="257.6" width="84.8" height="21.6" style="fill: rgb(251, 241, 241);" rx="11.2" ry="11.2"/>
+  <rect x="264" y="260" width="72" height="21.6" style="fill: rgb(251, 241, 241);" rx="10.8" ry="10.8"/>
+  <rect x="164.176" y="288.963" width="74.17" height="17.185" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(251, 241, 241);" rx="10.8" ry="10.8" transform="matrix(0.691455, 0.722419, -0.722419, 0.691455, -18.815976, 74.000482)"/>
+  <rect x="156.497" y="311.041" width="77.007" height="18.138" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(251, 241, 241);" rx="10.8" ry="10.8" transform="matrix(0.685214, -0.728342, 0.728342, 0.685214, -13.468968, 52.460617)"/>
+  <rect x="156.497" y="311.041" width="77.007" height="18.138" style="fill: rgb(251, 241, 241); transform-origin: 195px 320.11px;" rx="10.8" ry="10.8" transform="matrix(0.685214, -0.728342, 0.728342, 0.685214, 102.599673, 51.490396)"/>
+  <ellipse style="fill: rgb(251, 241, 241);" cx="278" cy="349.6" rx="10.8" ry="11.2"/>
+  <ellipse style="fill: rgb(251, 241, 241);" cx="319.6" cy="390.8" rx="11.6" ry="12"/>
+</svg>
